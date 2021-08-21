@@ -15,7 +15,7 @@ How to build
 
 ビルドを実行するには、git, maven, jdk8が必要です。
 
-1. リポジトリを [ダウンロード](https://codeload.github.com/Be4rJP/Chiyogami-Server-1.15.2/zip/refs/heads/master) or clone して解凍します。
+1. リポジトリを [ダウンロード](https://codeload.github.com/Be4rJP/Chiyogami-Server-1.16.5/zip/refs/heads/master) or clone して解凍します。
 2. 解凍したフォルダ上でWindowsの場合はgit-bash、linux or Macの場合はターミナルを開き```./buildChiyogami.sh```を実行します
 3. ビルド途中に出てくるpaperclipのビルド失敗メッセージは無視しても構いません
 4. ```Chiyogami-1.15.2.jar```が生成されていれば成功です
